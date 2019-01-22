@@ -1,6 +1,6 @@
 # main text of home
 name: Jerry Boru Li
-bio: // Software Engineer "\n" // Leader "\n"	// Lifelong student
+bio: //Software Engineer //Leader //Lifelong student
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -39,10 +39,10 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/jerryboruli/
+linkedin: jerryboruli
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/JerryBLi
+github: JerryBLi
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -56,10 +56,9 @@ email: me@boruli.com
 authors:
     johndoe:
         name: Jerry Li 
-        bio: A Man who travels the world eating noodles
+        bio: //Software Engineer //Leader //Lifelong student
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
