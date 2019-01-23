@@ -10,7 +10,7 @@ tag:
 star: true
 category: blog
 author: Jerry Li
-description: Interesting: The Curse of Knowledge 
+description: "Interesting: The Curse of Knowledge" 
 ---
 
 I recently stumbled upon the phenomenon known as "Curse of Knowledge." It describes a communication disconnect between a person trying to communicate an idea and a person trying to understand the idea. 
