@@ -66,4 +66,5 @@ of a task to INFINITY if it cannot be implemented in one of the methods.
 * Each task must be executed on a single node - there could be a need for a task to be able to be partially executed on multiple nodes.
 
 **Find the project [here](https://github.com/JerryBLi/HWSW-Task-Partitioning)**
+
 **For more information, read the paper [_Online Hardware/Software Partitioning in Networked Embedded Systems_](https://ieeexplore.ieee.org/document/1466504)**
