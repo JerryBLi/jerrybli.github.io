@@ -4,7 +4,17 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there! My name is Jerry and I'm a software engineer. I love learning new things and 
-improving old ones. While I'm not writing code or tinkering with electronics, I like to cook 
-and work out. </p>
+<p>Hi there! My name is Jerry and I'm currently a master's student at Stony Brook University in the 5 year Bachelors/Masters program for Computer Engineering. I love learning new things and improving old ones. While I'm not writing code or tinkering with electronics, I like to cook and work out. </p>
+
+I've developed software solutions in many languages including:
+* Java
+* C
+* C++
+* C#
+* LabVIEW
+
+
+Check out my blog about food and random thoughts [here](https://www.boruli.com/blog/).
+
+Check out my noteworthy projects [here](https://www.boruli.com/projects/).
 
