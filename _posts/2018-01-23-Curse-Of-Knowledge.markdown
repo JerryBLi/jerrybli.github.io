@@ -16,7 +16,7 @@ description: "Interesting: The Curse of Knowledge"
 I recently stumbled upon the phenomenon known as "Curse of Knowledge." It describes a communication disconnect between a person trying to communicate an idea and a person trying to understand the idea. 
 The disconnect happens when the communicator subconsciously assumes that the listener has background knowledge about certain things that, in reality, they do not have. 
 
-This was demonstrated in a 1990 paper by Elizabet Newton with a tapping experiment. In the experiment, there was one person who had to tap out the melody to a song while another tried to guess the song from the taps.
+This was demonstrated in a 1990 paper by Elizabeth Newton with a tapping experiment. In the experiment, there was one person who had to tap out the melody to a song while another tried to guess the song from the taps.
 When the tappers were asked to guess how often the listeners would predict the song correctly, the tappers would grossly overestimate from the actual percentage. 
 Those who tapped were familiar with the song (they had the melody in their head while tapping) and they assumed the listener would be able to decipher the song while, in reality, the listener only hears a series of taps with no other information.
 
