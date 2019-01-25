@@ -14,5 +14,11 @@ description: "Interesting: Timelime of the Far Future"
 ---
 
 Wikipedia isn't just a place with a lot of information; it's a place with a lot of *cool* information. Wikipedia has an article titled ["Timelime of the far future"](https://en.wikipedia.org/wiki/Timeline_of_the_far_future) that describes the scientific predictions of the world and universe way into the distant future \(mind-bogglingly large number of years into the future\). Here's some events I found really interesting:
-* *5.4 billion years from now* - The Sun begins to evolve into a red giant star because it has used it's hydrogen.
-* *10<sup>12</sup> years from now* - If the curvature of the universe is large enough
+* **10<sup>6</sup> years from now** - The minimum time for humanity to become a Type III civilization according to the Kardashev scale.
+* **7.2 * 10<sup>6</sup> years from now** - Mount Rushmore would erode to a point where we won't be able to recognize it.
+* **5.4 billion years from now** - The Sun begins to evolve into a red giant star because it has used it's hydrogen.
+* **10<sup>12</sup> years from now** - If the curvature of the universe is positive, this is the estimated time the universe would end in the Big Crunch (all the matter of the universe will collapse into a singularity). The current observations of the universe do not support this model.
+* **10<sup>14</sup> years from now** - All the free floating hydrogen in the universe would have been used up and no more stars would form.
+* **1.7 x 10<sup>106</sup> years from now** - Time for a super massive black hole to dissipate from Hawking radiation. The universe will be practically empty.
+
+This article is certainly different than most Wikipedia articles and I highly recommend reading about it [here](https://en.wikipedia.org/wiki/Timeline_of_the_far_future).
