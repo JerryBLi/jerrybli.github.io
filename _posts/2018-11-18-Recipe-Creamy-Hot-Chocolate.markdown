@@ -12,7 +12,7 @@ category: blog
 author: Jerry Li
 description: "Recipe: Creamy Hot Chocolate"
 ---
-![https://www.instagram.com/p/BqWUbq7HfVn/](https://www.instagram.com/p/BqWUbq7HfVn/media/?size=m)
+<p align="center"><img src ="https://www.instagram.com/p/BqWUbq7HfVn/media/?size=m" /></p>
 
 Traditionally there's a difference between hot chocolate and hot cocoa. Hot cocoa is the mixture of cocoa powder, sugar, and milk. It's light, watery, and sweet. Unlike hot cocoa, hot chocolate is usually thick and creamy. Hot chocolate is traditionally shaved chocolate melted in milk and can be made with any type of chocolate. For this recipe, I'm mixing both concepts to create a creamier hot cocoa that's decadent but isn't overbearingly thick. The melted chocolate gives the creaminess, the butter gives a full-flavor, and the sugar/cocoa mix gives that extra bit of sweetness.
 
