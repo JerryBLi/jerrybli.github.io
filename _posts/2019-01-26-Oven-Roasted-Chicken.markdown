@@ -15,7 +15,7 @@ description: "Recipe: Tender Oven Roasted Chicken with Pan Seared Potato"
 ---
 <p align="center"><img src ="https://www.instagram.com/p/BtJz7CgHuDm/media/?size=m" /></p>
 
-
+Chicken is such a classic dish. This roasted chicken was absolutely mouth-watering. The meat was so tender that just touching it made it fall off the bone! Combined with pan-seared rosemary potatoes, this was a meal fit for royalty* from the comfort of your own home. The only gripe I have about this is that it is very rich - eating it all in one sitting may be a bit much.
 
 ## Ingredients
 ### Oven Roasted Chicken
@@ -70,3 +70,6 @@ description: "Recipe: Tender Oven Roasted Chicken with Pan Seared Potato"
 7. Add salt and pepper to the potatoes.
 8. After the bottom of the potatoes turn a rich golden-brown, flip the potatoes over. 
 9. Remove the potatoes from the pan when both sides are golden-brown.
+
+
+*[Royalty from Medieval Times](https://youtu.be/Ertx8fZiuxA?list=PLEdnpoTDGX7J1L3NOTrEEmSIqdOTrG81m&t=144)
