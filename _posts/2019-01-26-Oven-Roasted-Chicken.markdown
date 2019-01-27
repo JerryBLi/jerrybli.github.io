@@ -13,7 +13,7 @@ category: blog
 author: Jerry Li
 description: "Recipe: Tender Oven Roasted Chicken with Pan Seared Potato"
 ---
-<p align="center"><img src ="/media/?size=m" /></p>
+<p align="center"><img src ="https://www.instagram.com/p/BtJz7CgHuDm/media/?size=m" /></p>
 
 
 
