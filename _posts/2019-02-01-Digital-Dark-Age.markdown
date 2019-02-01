@@ -21,7 +21,7 @@ Something related to this is the manufacture of paper. The modern day paper manu
 
 There's a few efforts to mitigate this issue. These include backing up digital copies of data to magnetic tape as well as standardizing the digital storage format. There's also an effort to utilize formats that are an open standard, that is that the standard of storing the data is openly available to anyone. While these efforts will preserve some data, it is certain that a lot of our digital data will be lost forever in the future.
 
-Read more about the deterioration of paper [here](https://www.loc.gov/preservation/care/deterioratebrochure.html).
+**Read more about the deterioration of paper [here](https://www.loc.gov/preservation/care/deterioratebrochure.html).**
 
-Read more about the Digital Dark Age [here](https://en.wikipedia.org/wiki/Digital_dark_age).
+**Read more about the Digital Dark Age [here](https://en.wikipedia.org/wiki/Digital_dark_age).**
 
