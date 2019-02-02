@@ -12,7 +12,7 @@ category: blog
 author: Jerry Li
 description: "Recipe: Vibrant Salad with Tender Roasted Chicken and Blueberry Vinaigrette"
 ---
-<p align="center"><img src ="/media/?size=m" /></p>
+<p align="center"><img src ="https://www.instagram.com/p/BtZLY0YnX4Q/media/?size=m" /></p>
 
 In the [Oven Roasted Chicken](https://www.boruli.com/Oven-Roasted-Chicken/) recipe, the chicken was delicious but I mentioned that the meal was very rich. I wanted to make the chicken again but instead of eating it alone as the main dish, I wanted something that would balance the chicken. I decided that I would cut the fatty richness from the chicken by mixing it in a salad. In this recipe, I mixed the rich and savory chicken with vibrant fresh vegetables, all balanced together with a tangy blueberry vinaigrette.
 
