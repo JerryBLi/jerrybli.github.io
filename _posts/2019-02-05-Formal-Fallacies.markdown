@@ -8,7 +8,7 @@ tag:
 - Fallacy of the Converse
 - Fallacy of the Inverse
 - Interesting
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Interesting: Fallacy of the Converse and Fallacy of the Inverse" 
