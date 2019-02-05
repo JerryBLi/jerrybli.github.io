@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Timelime of the Far Future
 - Interesting
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Interesting: Timelime of the Far Future"
