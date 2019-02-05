@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Digital Dark Age
 - Interesting
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Interesting: Digital Dark Age" 
