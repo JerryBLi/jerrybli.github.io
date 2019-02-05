@@ -8,7 +8,7 @@ tag:
 - Tender Oven Roasted Chicken
 -  Pan Seared Potato
 - Recipe
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Recipe: Tender Oven Roasted Chicken with Pan Seared Potato"
