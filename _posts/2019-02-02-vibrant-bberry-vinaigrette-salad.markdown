@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Salad
 - Recipe
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Recipe: Vibrant Salad with Tender Roasted Chicken and Blueberry Vinaigrette"
