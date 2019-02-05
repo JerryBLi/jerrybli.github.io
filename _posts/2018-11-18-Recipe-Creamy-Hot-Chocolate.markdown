@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Hot Chocolate
 - Recipe
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Recipe: Creamy Hot Chocolate"
