@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Curse of Knowledge
 - Interesting
-star: true
+star: false
 category: blog
 author: Jerry Li
 description: "Interesting: The Curse of Knowledge" 
