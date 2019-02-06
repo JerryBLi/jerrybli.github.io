@@ -13,7 +13,7 @@ category: blog
 author: Jerry Li
 description: "Interesting: Fallacy of the Converse and Fallacy of the Inverse" 
 ---
-I remember first learning about this in high school geometry but it's not until recently I realized its day-to-day importance.
+I remember first learning about this in high school geometry but I just came across this again and thought it was interesting.
 
 Imagine I said the following:
 
