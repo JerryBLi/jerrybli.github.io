@@ -12,7 +12,7 @@ category: blog
 author: Jerry Li
 description: "Recipe: Pasta Carbonara"
 ---
-<p align="center"><img src ="media/?size=m" /></p>
+<p align="center"><img src ="https://www.instagram.com/p/BuRv_7rnUyp/media/?size=m" /></p>
 
 This is a deliciously creamy pasta recipe that is so simple yet so elegant. Traditionally, in Italy, the meat used is guanciale which is cured meat from pork jowls. I haven't been able to find guanciale in the United States so this recipe used pancetta as a substitute. Pancetta is pretty much bacon with more pepper and without the smoke - if you can't find pancetta, thick sliced bacon also works. 
 
