@@ -1,7 +1,7 @@
 ---
 title: "Interesting: Survivorship Bias"
 layout: post
-date: 2019-01-23 12:00
+date: 2019-03-04 12:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
