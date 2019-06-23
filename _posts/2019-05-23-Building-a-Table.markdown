@@ -47,4 +47,4 @@ Building this table was a multi-day ordeal and an interesting learning experienc
 
 Check out the finished table top without the legs:
 
-![Image of table top](https://github.com/JerryBLi/jerrybli.github.io/blob/master/assets/images/tabletop.jpg)
+![Image of table top](https://raw.githubusercontent.com/JerryBLi/jerrybli.github.io/master/assets/images/tabletop.jpg)
